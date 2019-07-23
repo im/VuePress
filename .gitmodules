@@ -1,3 +1,0 @@
-[submodule "docs/.vuepress/theme/vuepress-theme-travis"]
-	path = docs/.vuepress/theme/vuepress-theme-travis
-	url = git@github.com:im/vuepress-theme-travis.git
