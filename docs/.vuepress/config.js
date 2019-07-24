@@ -2,7 +2,7 @@ module.exports = {
     port: 9090,
     title: 'vuepress-theme-travis',
     description: 'vuepress-theme-travis',
-    // theme: 'travis',
+    theme: 'travis',
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
