@@ -4,6 +4,7 @@
 set -e
 
 npm install -g vuepress
+npm install vuepress-theme-travis
 
 # 生成静态文件
 npm run docs:build
