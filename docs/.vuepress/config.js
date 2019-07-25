@@ -4,6 +4,8 @@ module.exports = {
     description: 'vuepress-theme-travis',
     // theme: 'travis',
     themeConfig: {
+        search: {},
+        category: {}
         // nav: [
         //     { text: 'Home', link: '/' },
         //     { text: 'Guide', link: '/guide/' },
