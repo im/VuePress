@@ -4,6 +4,5 @@
         "docs:build": "vuepress build docs"
     },
     "dependencies": {
-        "vuepress-theme-meteorlxy": "^1.0.1"
     }
 }
